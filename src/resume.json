@@ -1,120 +1,168 @@
 {
   "basics": {
-    "name": "Jonathan Bloomer",
+    "name": "Anders Langseth",
     "label": "Front End Developer",
     "picture": "dist/images/profilePhoto.jpg",
-    "email": "jonbloomer@gmail.com",
-    "phone": "0403933281",
-    "website": "http://freaksauce.com",
-    "summary": "Over the past 16 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. In my current role at IAG I am working on an Angular Business Insurance application. I have a very strong interest in full stack javascript development and have recently been experimenting with Meteor and React as well as Typescript and Polymer as you will see from my Github repos. I have experience using build tools such as Grunt & Gulp and templating languages such as Handlebars and experience using Git with both Stash and Github. In my most recent role I have been exposed to enterprise Agile development and received training and certification in SAFe ScrumXP (Scaled Agile Framework).",
+    "email": "anderslangseth@gmail.com",
+    "phone": "93086048",
+    "website": "workingonanewone.com",
+    "summary": "I am currently working in Accenture as a Front End Developer and have been working there since 2015. I graduated with a masters from Information Science at the University of Bergen(UiB) in the summer 2015, with a thesis in data visualization and information retrieval. Through the program, I have acquired knowledge from a variety of diciplines, including databases, software development and web development, as well as a good foundation in interaction and web design. I have worked on projects in system development, web development, operations and maintenance. My experiences are from part-time jobs, summer jobs and studies. I have experience from different parts of the stack, but is most passionate about Front End Development, especially web technology.",
     "location": {
-      "address": "Sutherland",
-      "postalCode": "2232",
-      "city": "Sydney",
-      "countryCode": "Aus",
-      "region": "NSW"
+      "address": "Oslo",
+      "postalCode": "0174",
+      "city": "Oslo",
+      "countryCode": "Norway",
+      "region": "Oslo"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "jonbloomer",
+        "username": "andersrofl",
         "url": ""
       },
       {
         "network": "Github",
-        "username": "freaksauce",
+        "username": "langz",
         "url": ""
       }
     ]
   },
   "work": [
     {
-      "company": "IAG",
-      "position": "UI Developer",
-      "website": "http://nrma.com.au",
-      "startDate": "2014-11-01",
+      "company": "Accenture",
+      "position": "Front End Developer",
+      "website": "https://www.accenture.com/no-en/",
+      "startDate": "2015-08-24",
       "endDate": "",
-      "summary": "Working as a UI developer as part of IAG Labs developing html/css/javascript solutions to integrate with the backend systems for the online quoting applications.",
+      "summary": "Working as a Front End Developer as part of a project developing mobile/web prototypes for clients, to show the potential of today's IBM technology.",
       "highlights": [
-        "Developed a Google Polymer prototype as a solution to ongoing problems with backend teams using inconsistent markup",
-        "Started to transition existing jQuery plugins over to Typescript",
-        "Became a certified SaFE Agile Practicioner"
+        "Developed several prototypes for clients, showcasing what's possible with today's technology. Focused on IBM technoplogy, specially IBM Bluemix and IBM Watson.",
+        "Prototyped in a Design Thinking process, where I learned the design processes and how to focus on needs of the user demographic.",
+        "Created 'template' projects which we reused as seed-projects for new prototype engagements.",
+        "Became a certified IBM Certified Application Developer - Cloud Platform V1."
       ]
     },
     {
-      "company": "Reactive",
-      "position": "Front End Developer",
-      "website": "",
+      "company": "Evry",
+      "position": "Front End Developer (Part-time)",
+      "website": "https://www.evry.com/no/",
       "startDate": "2014-09-01",
-      "endDate": "2014-11-30",
-      "summary": "At Reactive I was responsible for working with a .NET team to deliver templates using javascript/sass/grunt and handlebars. I also had exposure to TFS for source control.",
-      "highlights": []
+      "endDate": "2015-08-01",
+      "summary": "At Evry I was working on a project that provided Agresso ERP solutions to the public sector. I was part of a team of three with support from the department, which was responsible for creating a web application for distribution and monitoring of projects within the department of 200 employees.",
+      "highlights": [
+        "The application was based on Model-View-Controller (MVC) and was realized using the MEAN-stack, HTML, CSS, Bootstrap and responsive design.",
+        "Deployed and maintained the app on Microsoft Azure",
+        "Participated in all stages of the application lifecycle, from analysis and usability testing, to implementation and maintenance."
+      ]
     },
     {
-      "company": "City of Sydney Council",
-      "position": "Front End Developer",
-      "website": "",
-      "startDate": "2014-05-01",
+      "company": "TV 2",
+      "position": "Operations (Part-time)",
+      "website": "http://www.tv2.no/",
+      "startDate": "2014-04-01",
+      "endDate": "2014-12-31",
+      "summary": "Part-time employee on a project responsible for engineering of some services in one of Norway's leading television channel, TV 2. The main objective of the project was archiving, transcoding and distribution of soccer related videos to various media sources and soccer clubs.",
+      "highlights": [
+        "Operation and monitoring of the department’s production and media asset management system for soccer.",
+        "Systems was Windows and Linux based with highly specialized software, which I assisted developing."
+      ]
+    },
+    {
+      "company": "University of Bergen (UiB)",
+      "position": "Student Assistant",
+      "website": "http://www.uib.no/",
+      "startDate": "2012-06-01",
+      "endDate": "2014-12-01",
+      "summary": "As a Student Assistant in the courses INFO122 (SQL), INFO123 (XML Databases) and INFO125 (Database Management) I held weekly computer labs and helped my fellow students.",
+      "highlights": [
+        "Learned teaching and learning strategies through practice.",
+        "Built deep experience in SQL, XML, Xpath, Xquery, NoSQL, and relational databases.",
+        "Had so much fun teaching and helping my fellow students, that I did this for 3 years alongside with my studies."
+      ]
+    },
+    {
+      "company": "Evry",
+      "position": "Summer Intern ERP",
+      "website": "https://www.evry.com/no/",
+      "startDate": "2014-06-01",
       "endDate": "2014-08-31",
-      "summary": "For City of Sydney I was a Front End Developer working with Wordpress on multiple key websites such as Sydneynewyearseve.com.au. All code was developed using LESS and Bootstrap for a consistent responsive interface.",
-      "highlights": []
+      "summary": "Participant in a summer project for students in a section which delivered ERP solutions to the public sector. ERP vendor's customers needed a new, responsive user interface to their web solution. This was developed through a summer project managed and implemented by a Scrum team of three students and monitoring of project in Norway and scrum master in India.",
+      "highlights": [
+        "Solution was based on AngularJS, HTML, CSS, and Bootstrap.",
+        "Contributed in the analysis, usability testing, web design and planning of the solution."
+      ]
     },
     {
-      "company": "Self Employed",
-      "position": "Freelance Web Developer",
-      "website": "",
-      "startDate": "2010-03-01",
-      "endDate": "2014-05-01",
-      "summary": "As a freelance web developer I mainly concentrated on building bespoke CMS solutions for agencies using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with Advanced Custom Fields and toward the latter end of my freelance venture, responsive layouts.",
-      "highlights": []
-    },
-    {
-      "company": "Soap Creative",
-      "position": "Senior Web Developer",
-      "website": "http://soapcreative.com",
-      "startDate": "2006-07-01",
-      "endDate": "2010-03-01",
-      "summary": "At SOAP I was required to carry out full stack duties across a broad range of projects including php/MySQL with front end technologies ranging from html/css to Flash.",
-      "highlights": []
-    },
-    {
-      "company": "M&C Saatchi",
-      "position": "Web Developer",
-      "website": "http://mcsaatchi.com.au/",
-      "startDate": "2006-05-01",
-      "endDate": "2006-08-31",
-      "summary": "Flash development with xml & amfphp for php/mysql integration.",
-      "highlights": []
-    },
-    {
-      "company": "Wunderman/GPY&R",
-      "position": "Web Developer",
-      "website": "http://www.gpyr.com.au/",
-      "startDate": "2005-07-01",
-      "endDate": "2006-05-01",
-      "summary": "Flash developer using xml & amfphp, html/css with php/mysql backend integration and CMS development.",
-      "highlights": []
-    },
-    {
-      "company": "Federal Publishing Company",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2004-07-01",
-      "endDate": "2005-03-31",
-      "summary": "Lead web developer on homehound.com.au, html/css/javascript development with php & SQL server integration.",
-      "highlights": []
+      "company": "Evry",
+      "position": "Summer Intern Operations",
+      "website": "https://www.evry.com/no/",
+      "startDate": "2013-06-01",
+      "endDate": "2013-08-31",
+      "summary": "Summer employee in a department who established and did maintenance of test environments used in the banking and finance industry",
+      "highlights": [
+        "Test environments on Windows, Linux, AIX and IBM platform with software as Jetty and Oracle.",
+        "Created and maintained Oracle 9 and 10 databases, as well as testing multiple RMAN functions on the databases.",
+        "Contributed in establishing machines and users, analyze reports and general maintenance for servers in the test environment."
+      ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "JavaZone",
+      "position": "Volunteer",
+      "website": "https://2016.javazone.no/",
+      "startDate": "2014-09-09",
+      "endDate": "2013-09-11",
+      "summary": "Helped out at the Javazone 2014 conference.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "Birmingham Conservatoire",
-      "area": "Music",
-      "studyType": "Bachelor (hons)",
-      "startDate": "1994-08-01",
-      "endDate": "1998-07-01",
+      "institution": "University of Bergen (UiB)",
+      "area": "Information Science",
+      "studyType": "Masters",
+      "startDate": "2013-08-01",
+      "endDate": "2015-07-01",
       "gpa": "",
-      "courses": []
+      "courses": [
+        "INFO371 - Topics in Networks and Text Analysis",
+        "INFO310 - Advanced Topics in Information Systems",
+        "INFO323 - Data Architectures for Information Retrieval and Web Intelligence",
+        "INFOMEVI300 - Project work and research design",
+        "INFO390 - Master Thesis in Information Science"
+      ]
+    },
+    {
+      "institution": "University of Bergen (UiB)",
+      "area": "Information Science",
+      "studyType": "Bachelors",
+      "startDate": "2010-08-01",
+      "endDate": "2013-07-01",
+      "gpa": "",
+      "courses": [
+        "SV100 - Scientific ways of thinking",
+        "INFO100 - Introduction to Information Science",
+        "EXPHIL - Examen Philosophicum",
+        "INFO132 - Introduction to programming",
+        "INFO114 - Social Media",
+        "INFO110 - Information Systems",
+        "INFO102 - Formal methods in Information Science",
+        "INFO214 - System Development",
+        "INFO210 - Project in System Development",
+        "INFO123 - Selected topics in Database Management",
+        "INFO122 - Introduction to Database Management",
+        "INFO261 - Interaction Design",
+        "INFO231 - Program Development",
+        "INFO282 - Artificial Intelligence",
+        "INFO232 - Programming for Artificial Intelligence",
+        "DIKULT105 - Webdesign",
+        "INF111 - Functional Web Design",
+        "INFO221 - Multimedia Management",
+        "INFO103 - Information and knowledge"
+      ]
     }
   ],
   "awards": [],
@@ -130,23 +178,40 @@
         "ES2015",
         "jQuery",
         "Typescript",
-        "Meteor",
-        "React",
-        "Handlebars",
-        "SASS",
-        "LESS",
+        "AngularJS 1",
+        "AngularJS 2",
+        "ReactJS",
+        "Angular Material",
         "Gulp",
         "Grunt",
+        "Webpack",
         "Babel",
         "Bootstrap",
-        "Semantic UI",
         "Material css",
+        "Semantic UI",
         "Node",
         "php",
-        "MySQL",
+        "SQL",
+        "Xpath and XQuery",
+        "MongoDB",
         "Git",
         "Jira",
-        "Responsive"
+        "Confluence",
+        "Responsive",
+        "Java",
+        "XML",
+        "JSON",
+        "Scrum",
+        "Agile Methodologies",
+        "IBM Bluemix",
+        "Microsoft Azure",
+        "CloudFoundry",
+        "IBM Watson",
+        "IBM DataPower",
+        "IBM BPM",
+        "LAMP",
+        "MEAN",
+        "CLEAN"
       ]
     }
   ],
@@ -158,7 +223,11 @@
   ],
   "interests": [
     {
-      "name": "Guitar",
+      "name": "Running",
+      "keywords": []
+    },
+    {
+      "name": "Soccer",
       "keywords": []
     }
   ],

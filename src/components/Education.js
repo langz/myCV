@@ -3,15 +3,18 @@ import React from 'react';
 export default class Education extends React.Component {
 
   render() {
-
     var getEducation = 	this.props.educationData.map(function(item) {
   		var startdate = moment(item.startDate).format("MMM, YYYY");
   		var enddate = moment(item.endDate).format("MMM, YYYY");
+      var courses = item.courses.map(function(item) {
+        return (<li>{item}</li>)
+      });
   		return (
           <div>
             <h3>{item.studyType} {item.area}</h3>
   				  <h4>{item.institution}</h4>
   				  <p>Studied: {startdate} - {enddate}</p>
+            <ul>{courses}</ul>
   				</div>
         )
   	});
